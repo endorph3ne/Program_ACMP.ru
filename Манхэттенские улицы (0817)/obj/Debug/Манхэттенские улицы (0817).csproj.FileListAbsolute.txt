@@ -1,0 +1,7 @@
+D:\Program\Program_ACMP.ru\Манхэттенские улицы (0817)\bin\Debug\Манхэттенские улицы (0817).exe.config
+D:\Program\Program_ACMP.ru\Манхэттенские улицы (0817)\bin\Debug\Манхэттенские улицы (0817).exe
+D:\Program\Program_ACMP.ru\Манхэттенские улицы (0817)\bin\Debug\Манхэттенские улицы (0817).pdb
+D:\Program\Program_ACMP.ru\Манхэттенские улицы (0817)\obj\Debug\Манхэттенские улицы (0817).csprojAssemblyReference.cache
+D:\Program\Program_ACMP.ru\Манхэттенские улицы (0817)\obj\Debug\Манхэттенские улицы (0817).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Манхэттенские улицы (0817)\obj\Debug\Манхэттенские улицы (0817).exe
+D:\Program\Program_ACMP.ru\Манхэттенские улицы (0817)\obj\Debug\Манхэттенские улицы (0817).pdb
