@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Три толстяка (0754)\bin\Debug\Три толстяка (0754).exe.config
+D:\Program\Program_ACMP.ru\Три толстяка (0754)\bin\Debug\Три толстяка (0754).exe
+D:\Program\Program_ACMP.ru\Три толстяка (0754)\bin\Debug\Три толстяка (0754).pdb
+D:\Program\Program_ACMP.ru\Три толстяка (0754)\obj\Debug\Три толстяка (0754).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Три толстяка (0754)\obj\Debug\Три толстяка (0754).exe
+D:\Program\Program_ACMP.ru\Три толстяка (0754)\obj\Debug\Три толстяка (0754).pdb

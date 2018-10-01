@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Счастливый билет (0052)\bin\Debug\Счастливый билет (0052).exe.config
+D:\Program\Program_ACMP.ru\Счастливый билет (0052)\bin\Debug\Счастливый билет (0052).exe
+D:\Program\Program_ACMP.ru\Счастливый билет (0052)\bin\Debug\Счастливый билет (0052).pdb
+D:\Program\Program_ACMP.ru\Счастливый билет (0052)\obj\Debug\Счастливый билет (0052).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Счастливый билет (0052)\obj\Debug\Счастливый билет (0052).exe
+D:\Program\Program_ACMP.ru\Счастливый билет (0052)\obj\Debug\Счастливый билет (0052).pdb

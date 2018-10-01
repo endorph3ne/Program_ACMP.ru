@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Единицы (0022)\bin\Debug\Единицы (0022).exe.config
+D:\Program\Program_ACMP.ru\Единицы (0022)\bin\Debug\Единицы (0022).exe
+D:\Program\Program_ACMP.ru\Единицы (0022)\bin\Debug\Единицы (0022).pdb
+D:\Program\Program_ACMP.ru\Единицы (0022)\obj\Debug\Единицы (0022).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Единицы (0022)\obj\Debug\Единицы (0022).exe
+D:\Program\Program_ACMP.ru\Единицы (0022)\obj\Debug\Единицы (0022).pdb

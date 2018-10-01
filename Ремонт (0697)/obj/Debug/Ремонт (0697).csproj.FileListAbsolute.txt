@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Ремонт (0697)\bin\Debug\Ремонт (0697).exe.config
+D:\Program\Program_ACMP.ru\Ремонт (0697)\bin\Debug\Ремонт (0697).exe
+D:\Program\Program_ACMP.ru\Ремонт (0697)\bin\Debug\Ремонт (0697).pdb
+D:\Program\Program_ACMP.ru\Ремонт (0697)\obj\Debug\Ремонт (0697).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Ремонт (0697)\obj\Debug\Ремонт (0697).exe
+D:\Program\Program_ACMP.ru\Ремонт (0697)\obj\Debug\Ремонт (0697).pdb

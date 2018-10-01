@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Перепись (0131)\bin\Debug\Перепись (0131).exe.config
+D:\Program\Program_ACMP.ru\Перепись (0131)\bin\Debug\Перепись (0131).exe
+D:\Program\Program_ACMP.ru\Перепись (0131)\bin\Debug\Перепись (0131).pdb
+D:\Program\Program_ACMP.ru\Перепись (0131)\obj\Debug\Перепись (0131).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Перепись (0131)\obj\Debug\Перепись (0131).exe
+D:\Program\Program_ACMP.ru\Перепись (0131)\obj\Debug\Перепись (0131).pdb

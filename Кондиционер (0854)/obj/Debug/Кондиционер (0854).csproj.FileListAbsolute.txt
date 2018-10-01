@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Кондиционер (0854)\bin\Debug\Кондиционер (0854).exe.config
+D:\Program\Program_ACMP.ru\Кондиционер (0854)\bin\Debug\Кондиционер (0854).exe
+D:\Program\Program_ACMP.ru\Кондиционер (0854)\bin\Debug\Кондиционер (0854).pdb
+D:\Program\Program_ACMP.ru\Кондиционер (0854)\obj\Debug\Кондиционер (0854).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Кондиционер (0854)\obj\Debug\Кондиционер (0854).exe
+D:\Program\Program_ACMP.ru\Кондиционер (0854)\obj\Debug\Кондиционер (0854).pdb

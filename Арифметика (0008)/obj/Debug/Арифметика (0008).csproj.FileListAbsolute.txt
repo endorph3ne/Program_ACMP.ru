@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Арифметика (0008)\bin\Debug\Арифметика (0008).exe.config
+D:\Program\Program_ACMP.ru\Арифметика (0008)\bin\Debug\Арифметика (0008).exe
+D:\Program\Program_ACMP.ru\Арифметика (0008)\bin\Debug\Арифметика (0008).pdb
+D:\Program\Program_ACMP.ru\Арифметика (0008)\obj\Debug\Арифметика (0008).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Арифметика (0008)\obj\Debug\Арифметика (0008).exe
+D:\Program\Program_ACMP.ru\Арифметика (0008)\obj\Debug\Арифметика (0008).pdb

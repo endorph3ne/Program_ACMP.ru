@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Арифметическая прогрессия (0312)\bin\Debug\Арифметическая прогрессия (0312).exe.config
+D:\Program\Program_ACMP.ru\Арифметическая прогрессия (0312)\bin\Debug\Арифметическая прогрессия (0312).exe
+D:\Program\Program_ACMP.ru\Арифметическая прогрессия (0312)\bin\Debug\Арифметическая прогрессия (0312).pdb
+D:\Program\Program_ACMP.ru\Арифметическая прогрессия (0312)\obj\Debug\Арифметическая прогрессия (0312).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Арифметическая прогрессия (0312)\obj\Debug\Арифметическая прогрессия (0312).exe
+D:\Program\Program_ACMP.ru\Арифметическая прогрессия (0312)\obj\Debug\Арифметическая прогрессия (0312).pdb

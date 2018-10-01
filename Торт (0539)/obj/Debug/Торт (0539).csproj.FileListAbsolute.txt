@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Торт (0539)\bin\Debug\Торт (0539).exe.config
+D:\Program\Program_ACMP.ru\Торт (0539)\bin\Debug\Торт (0539).exe
+D:\Program\Program_ACMP.ru\Торт (0539)\bin\Debug\Торт (0539).pdb
+D:\Program\Program_ACMP.ru\Торт (0539)\obj\Debug\Торт (0539).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Торт (0539)\obj\Debug\Торт (0539).exe
+D:\Program\Program_ACMP.ru\Торт (0539)\obj\Debug\Торт (0539).pdb

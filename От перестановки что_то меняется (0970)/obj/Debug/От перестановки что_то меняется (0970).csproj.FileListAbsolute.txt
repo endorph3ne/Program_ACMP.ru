@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\От перестановки что_то меняется (0970)\bin\Debug\От перестановки что_то меняется (0970).exe.config
+D:\Program\Program_ACMP.ru\От перестановки что_то меняется (0970)\bin\Debug\От перестановки что_то меняется (0970).exe
+D:\Program\Program_ACMP.ru\От перестановки что_то меняется (0970)\bin\Debug\От перестановки что_то меняется (0970).pdb
+D:\Program\Program_ACMP.ru\От перестановки что_то меняется (0970)\obj\Debug\От перестановки что_то меняется (0970).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\От перестановки что_то меняется (0970)\obj\Debug\От перестановки что_то меняется (0970).exe
+D:\Program\Program_ACMP.ru\От перестановки что_то меняется (0970)\obj\Debug\От перестановки что_то меняется (0970).pdb

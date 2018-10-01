@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Монетки (0106)\bin\Debug\Монетки (0106).exe.config
+D:\Program\Program_ACMP.ru\Монетки (0106)\bin\Debug\Монетки (0106).exe
+D:\Program\Program_ACMP.ru\Монетки (0106)\bin\Debug\Монетки (0106).pdb
+D:\Program\Program_ACMP.ru\Монетки (0106)\obj\Debug\Монетки (0106).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Монетки (0106)\obj\Debug\Монетки (0106).exe
+D:\Program\Program_ACMP.ru\Монетки (0106)\obj\Debug\Монетки (0106).pdb

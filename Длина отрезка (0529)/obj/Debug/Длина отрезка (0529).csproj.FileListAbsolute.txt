@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Длина отрезка (0529)\bin\Debug\Длина отрезка (0529).exe.config
+D:\Program\Program_ACMP.ru\Длина отрезка (0529)\bin\Debug\Длина отрезка (0529).exe
+D:\Program\Program_ACMP.ru\Длина отрезка (0529)\bin\Debug\Длина отрезка (0529).pdb
+D:\Program\Program_ACMP.ru\Длина отрезка (0529)\obj\Debug\Длина отрезка (0529).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Длина отрезка (0529)\obj\Debug\Длина отрезка (0529).exe
+D:\Program\Program_ACMP.ru\Длина отрезка (0529)\obj\Debug\Длина отрезка (0529).pdb

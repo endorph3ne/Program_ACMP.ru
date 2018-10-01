@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Строки в книге (0948)\bin\Debug\Строки в книге (0948).exe.config
+D:\Program\Program_ACMP.ru\Строки в книге (0948)\bin\Debug\Строки в книге (0948).exe
+D:\Program\Program_ACMP.ru\Строки в книге (0948)\bin\Debug\Строки в книге (0948).pdb
+D:\Program\Program_ACMP.ru\Строки в книге (0948)\obj\Debug\Строки в книге (0948).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Строки в книге (0948)\obj\Debug\Строки в книге (0948).exe
+D:\Program\Program_ACMP.ru\Строки в книге (0948)\obj\Debug\Строки в книге (0948).pdb

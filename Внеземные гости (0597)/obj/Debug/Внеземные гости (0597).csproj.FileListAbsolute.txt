@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Внеземные гости (0597)\bin\Debug\Внеземные гости (0597).exe.config
+D:\Program\Program_ACMP.ru\Внеземные гости (0597)\bin\Debug\Внеземные гости (0597).exe
+D:\Program\Program_ACMP.ru\Внеземные гости (0597)\bin\Debug\Внеземные гости (0597).pdb
+D:\Program\Program_ACMP.ru\Внеземные гости (0597)\obj\Debug\Внеземные гости (0597).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Внеземные гости (0597)\obj\Debug\Внеземные гости (0597).exe
+D:\Program\Program_ACMP.ru\Внеземные гости (0597)\obj\Debug\Внеземные гости (0597).pdb

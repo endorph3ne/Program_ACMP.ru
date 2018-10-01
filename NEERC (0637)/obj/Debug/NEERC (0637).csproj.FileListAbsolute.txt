@@ -1,0 +1,7 @@
+D:\Program\Program_ACMP.ru\NEERC (0637)\bin\Debug\NEERC (0637).exe.config
+D:\Program\Program_ACMP.ru\NEERC (0637)\bin\Debug\NEERC (0637).exe
+D:\Program\Program_ACMP.ru\NEERC (0637)\bin\Debug\NEERC (0637).pdb
+D:\Program\Program_ACMP.ru\NEERC (0637)\obj\Debug\NEERC (0637).csprojAssemblyReference.cache
+D:\Program\Program_ACMP.ru\NEERC (0637)\obj\Debug\NEERC (0637).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\NEERC (0637)\obj\Debug\NEERC (0637).exe
+D:\Program\Program_ACMP.ru\NEERC (0637)\obj\Debug\NEERC (0637).pdb

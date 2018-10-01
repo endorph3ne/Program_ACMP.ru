@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Шахматное поле (0935)\bin\Debug\Шахматное поле (0935).exe.config
+D:\Program\Program_ACMP.ru\Шахматное поле (0935)\bin\Debug\Шахматное поле (0935).exe
+D:\Program\Program_ACMP.ru\Шахматное поле (0935)\bin\Debug\Шахматное поле (0935).pdb
+D:\Program\Program_ACMP.ru\Шахматное поле (0935)\obj\Debug\Шахматное поле (0935).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Шахматное поле (0935)\obj\Debug\Шахматное поле (0935).exe
+D:\Program\Program_ACMP.ru\Шахматное поле (0935)\obj\Debug\Шахматное поле (0935).pdb

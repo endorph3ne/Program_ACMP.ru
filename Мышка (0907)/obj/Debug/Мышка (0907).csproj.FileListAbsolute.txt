@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Мышка (0907)\bin\Debug\Мышка (0907).exe.config
+D:\Program\Program_ACMP.ru\Мышка (0907)\bin\Debug\Мышка (0907).exe
+D:\Program\Program_ACMP.ru\Мышка (0907)\bin\Debug\Мышка (0907).pdb
+D:\Program\Program_ACMP.ru\Мышка (0907)\obj\Debug\Мышка (0907).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Мышка (0907)\obj\Debug\Мышка (0907).exe
+D:\Program\Program_ACMP.ru\Мышка (0907)\obj\Debug\Мышка (0907).pdb

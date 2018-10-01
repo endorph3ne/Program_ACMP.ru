@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Бинарные числа (0692)\bin\Debug\Бинарные числа (0692).exe.config
+D:\Program\Program_ACMP.ru\Бинарные числа (0692)\bin\Debug\Бинарные числа (0692).exe
+D:\Program\Program_ACMP.ru\Бинарные числа (0692)\bin\Debug\Бинарные числа (0692).pdb
+D:\Program\Program_ACMP.ru\Бинарные числа (0692)\obj\Debug\Бинарные числа (0692).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Бинарные числа (0692)\obj\Debug\Бинарные числа (0692).exe
+D:\Program\Program_ACMP.ru\Бинарные числа (0692)\obj\Debug\Бинарные числа (0692).pdb

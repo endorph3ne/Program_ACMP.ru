@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Орфография (0940)\bin\Debug\Орфография (0940).exe.config
+D:\Program\Program_ACMP.ru\Орфография (0940)\bin\Debug\Орфография (0940).exe
+D:\Program\Program_ACMP.ru\Орфография (0940)\bin\Debug\Орфография (0940).pdb
+D:\Program\Program_ACMP.ru\Орфография (0940)\obj\Debug\Орфография (0940).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Орфография (0940)\obj\Debug\Орфография (0940).exe
+D:\Program\Program_ACMP.ru\Орфография (0940)\obj\Debug\Орфография (0940).pdb

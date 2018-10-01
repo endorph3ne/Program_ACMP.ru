@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Рыболовная сеть (0756)\bin\Debug\Рыболовная сеть (0756).exe.config
+D:\Program\Program_ACMP.ru\Рыболовная сеть (0756)\bin\Debug\Рыболовная сеть (0756).exe
+D:\Program\Program_ACMP.ru\Рыболовная сеть (0756)\bin\Debug\Рыболовная сеть (0756).pdb
+D:\Program\Program_ACMP.ru\Рыболовная сеть (0756)\obj\Debug\Рыболовная сеть (0756).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Рыболовная сеть (0756)\obj\Debug\Рыболовная сеть (0756).exe
+D:\Program\Program_ACMP.ru\Рыболовная сеть (0756)\obj\Debug\Рыболовная сеть (0756).pdb

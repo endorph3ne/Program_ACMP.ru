@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Разворот (0149)\bin\Debug\Разворот (0149).exe.config
+D:\Program\Program_ACMP.ru\Разворот (0149)\bin\Debug\Разворот (0149).exe
+D:\Program\Program_ACMP.ru\Разворот (0149)\bin\Debug\Разворот (0149).pdb
+D:\Program\Program_ACMP.ru\Разворот (0149)\obj\Debug\Разворот (0149).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Разворот (0149)\obj\Debug\Разворот (0149).exe
+D:\Program\Program_ACMP.ru\Разворот (0149)\obj\Debug\Разворот (0149).pdb

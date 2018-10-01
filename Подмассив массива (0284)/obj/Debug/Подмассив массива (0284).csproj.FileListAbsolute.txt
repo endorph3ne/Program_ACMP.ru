@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Подмассив массива (0284)\bin\Debug\Подмассив массива (0284).exe.config
+D:\Program\Program_ACMP.ru\Подмассив массива (0284)\bin\Debug\Подмассив массива (0284).exe
+D:\Program\Program_ACMP.ru\Подмассив массива (0284)\bin\Debug\Подмассив массива (0284).pdb
+D:\Program\Program_ACMP.ru\Подмассив массива (0284)\obj\Debug\Подмассив массива (0284).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Подмассив массива (0284)\obj\Debug\Подмассив массива (0284).exe
+D:\Program\Program_ACMP.ru\Подмассив массива (0284)\obj\Debug\Подмассив массива (0284).pdb

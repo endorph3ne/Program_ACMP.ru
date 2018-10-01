@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Больше-меньше (0025)\bin\Debug\Больше-меньше (0025).exe.config
+D:\Program\Program_ACMP.ru\Больше-меньше (0025)\bin\Debug\Больше-меньше (0025).exe
+D:\Program\Program_ACMP.ru\Больше-меньше (0025)\bin\Debug\Больше-меньше (0025).pdb
+D:\Program\Program_ACMP.ru\Больше-меньше (0025)\obj\Debug\Больше-меньше (0025).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Больше-меньше (0025)\obj\Debug\Больше-меньше (0025).exe
+D:\Program\Program_ACMP.ru\Больше-меньше (0025)\obj\Debug\Больше-меньше (0025).pdb

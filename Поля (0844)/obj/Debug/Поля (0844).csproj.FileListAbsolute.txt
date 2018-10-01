@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Поля (0844)\bin\Debug\Поля (0844).exe.config
+D:\Program\Program_ACMP.ru\Поля (0844)\bin\Debug\Поля (0844).exe
+D:\Program\Program_ACMP.ru\Поля (0844)\bin\Debug\Поля (0844).pdb
+D:\Program\Program_ACMP.ru\Поля (0844)\obj\Debug\Поля (0844).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Поля (0844)\obj\Debug\Поля (0844).exe
+D:\Program\Program_ACMP.ru\Поля (0844)\obj\Debug\Поля (0844).pdb

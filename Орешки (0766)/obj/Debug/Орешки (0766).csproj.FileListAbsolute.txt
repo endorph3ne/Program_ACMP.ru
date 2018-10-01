@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Орешки (0766)\bin\Debug\Орешки (0766).exe.config
+D:\Program\Program_ACMP.ru\Орешки (0766)\bin\Debug\Орешки (0766).exe
+D:\Program\Program_ACMP.ru\Орешки (0766)\bin\Debug\Орешки (0766).pdb
+D:\Program\Program_ACMP.ru\Орешки (0766)\obj\Debug\Орешки (0766).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Орешки (0766)\obj\Debug\Орешки (0766).exe
+D:\Program\Program_ACMP.ru\Орешки (0766)\obj\Debug\Орешки (0766).pdb

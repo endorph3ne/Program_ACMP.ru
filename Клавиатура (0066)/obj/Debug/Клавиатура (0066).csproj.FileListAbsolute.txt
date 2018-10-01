@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Клавиатура (0066)\bin\Debug\Клавиатура (0066).exe.config
+D:\Program\Program_ACMP.ru\Клавиатура (0066)\bin\Debug\Клавиатура (0066).exe
+D:\Program\Program_ACMP.ru\Клавиатура (0066)\bin\Debug\Клавиатура (0066).pdb
+D:\Program\Program_ACMP.ru\Клавиатура (0066)\obj\Debug\Клавиатура (0066).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Клавиатура (0066)\obj\Debug\Клавиатура (0066).exe
+D:\Program\Program_ACMP.ru\Клавиатура (0066)\obj\Debug\Клавиатура (0066).pdb

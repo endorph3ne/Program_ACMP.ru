@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Наперстки (0678)\bin\Debug\Наперстки (0678).exe.config
+D:\Program\Program_ACMP.ru\Наперстки (0678)\bin\Debug\Наперстки (0678).exe
+D:\Program\Program_ACMP.ru\Наперстки (0678)\bin\Debug\Наперстки (0678).pdb
+D:\Program\Program_ACMP.ru\Наперстки (0678)\obj\Debug\Наперстки (0678).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Наперстки (0678)\obj\Debug\Наперстки (0678).exe
+D:\Program\Program_ACMP.ru\Наперстки (0678)\obj\Debug\Наперстки (0678).pdb

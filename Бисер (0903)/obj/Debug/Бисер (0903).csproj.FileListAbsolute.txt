@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Бисер (0903)\bin\Debug\Бисер (0903).exe.config
+D:\Program\Program_ACMP.ru\Бисер (0903)\bin\Debug\Бисер (0903).exe
+D:\Program\Program_ACMP.ru\Бисер (0903)\bin\Debug\Бисер (0903).pdb
+D:\Program\Program_ACMP.ru\Бисер (0903)\obj\Debug\Бисер (0903).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Бисер (0903)\obj\Debug\Бисер (0903).exe
+D:\Program\Program_ACMP.ru\Бисер (0903)\obj\Debug\Бисер (0903).pdb

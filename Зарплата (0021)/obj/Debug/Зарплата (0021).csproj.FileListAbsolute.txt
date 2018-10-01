@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Зарплата (0021)\bin\Debug\Зарплата (0021).exe.config
+D:\Program\Program_ACMP.ru\Зарплата (0021)\bin\Debug\Зарплата (0021).exe
+D:\Program\Program_ACMP.ru\Зарплата (0021)\bin\Debug\Зарплата (0021).pdb
+D:\Program\Program_ACMP.ru\Зарплата (0021)\obj\Debug\Зарплата (0021).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Зарплата (0021)\obj\Debug\Зарплата (0021).exe
+D:\Program\Program_ACMP.ru\Зарплата (0021)\obj\Debug\Зарплата (0021).pdb

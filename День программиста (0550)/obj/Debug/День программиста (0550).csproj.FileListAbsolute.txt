@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\День программиста (0550)\bin\Debug\День программиста (0550).exe.config
+D:\Program\Program_ACMP.ru\День программиста (0550)\bin\Debug\День программиста (0550).exe
+D:\Program\Program_ACMP.ru\День программиста (0550)\bin\Debug\День программиста (0550).pdb
+D:\Program\Program_ACMP.ru\День программиста (0550)\obj\Debug\День программиста (0550).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\День программиста (0550)\obj\Debug\День программиста (0550).exe
+D:\Program\Program_ACMP.ru\День программиста (0550)\obj\Debug\День программиста (0550).pdb

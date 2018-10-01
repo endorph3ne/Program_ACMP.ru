@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Время года (0892)\bin\Debug\Время года (0892).exe.config
+D:\Program\Program_ACMP.ru\Время года (0892)\bin\Debug\Время года (0892).exe
+D:\Program\Program_ACMP.ru\Время года (0892)\bin\Debug\Время года (0892).pdb
+D:\Program\Program_ACMP.ru\Время года (0892)\obj\Debug\Время года (0892).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Время года (0892)\obj\Debug\Время года (0892).exe
+D:\Program\Program_ACMP.ru\Время года (0892)\obj\Debug\Время года (0892).pdb

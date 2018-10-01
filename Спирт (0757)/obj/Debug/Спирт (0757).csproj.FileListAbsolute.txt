@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Спирт (0757)\bin\Debug\Спирт (0757).exe.config
+D:\Program\Program_ACMP.ru\Спирт (0757)\bin\Debug\Спирт (0757).exe
+D:\Program\Program_ACMP.ru\Спирт (0757)\bin\Debug\Спирт (0757).pdb
+D:\Program\Program_ACMP.ru\Спирт (0757)\obj\Debug\Спирт (0757).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Спирт (0757)\obj\Debug\Спирт (0757).exe
+D:\Program\Program_ACMP.ru\Спирт (0757)\obj\Debug\Спирт (0757).pdb

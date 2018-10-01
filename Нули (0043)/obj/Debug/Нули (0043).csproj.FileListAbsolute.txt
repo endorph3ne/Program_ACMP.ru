@@ -1,0 +1,7 @@
+D:\Program\Program_ACMP.ru\Нули (0043)\obj\Debug\Нули (0043).csprojAssemblyReference.cache
+D:\Program\Program_ACMP.ru\Нули (0043)\obj\Debug\Нули (0043).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Нули (0043)\bin\Debug\Нули (0043).exe.config
+D:\Program\Program_ACMP.ru\Нули (0043)\bin\Debug\Нули (0043).exe
+D:\Program\Program_ACMP.ru\Нули (0043)\bin\Debug\Нули (0043).pdb
+D:\Program\Program_ACMP.ru\Нули (0043)\obj\Debug\Нули (0043).exe
+D:\Program\Program_ACMP.ru\Нули (0043)\obj\Debug\Нули (0043).pdb

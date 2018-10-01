@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Головоломка про ферзей (0086)\bin\Debug\Головоломка про ферзей (0086).exe.config
+D:\Program\Program_ACMP.ru\Головоломка про ферзей (0086)\bin\Debug\Головоломка про ферзей (0086).exe
+D:\Program\Program_ACMP.ru\Головоломка про ферзей (0086)\bin\Debug\Головоломка про ферзей (0086).pdb
+D:\Program\Program_ACMP.ru\Головоломка про ферзей (0086)\obj\Debug\Головоломка про ферзей (0086).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Головоломка про ферзей (0086)\obj\Debug\Головоломка про ферзей (0086).exe
+D:\Program\Program_ACMP.ru\Головоломка про ферзей (0086)\obj\Debug\Головоломка про ферзей (0086).pdb

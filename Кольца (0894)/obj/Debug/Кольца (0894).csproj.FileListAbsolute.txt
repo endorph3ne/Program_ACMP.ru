@@ -1,0 +1,7 @@
+D:\Program\Program_ACMP.ru\Кольца (0894)\bin\Debug\Кольца (0894).exe.config
+D:\Program\Program_ACMP.ru\Кольца (0894)\bin\Debug\Кольца (0894).exe
+D:\Program\Program_ACMP.ru\Кольца (0894)\bin\Debug\Кольца (0894).pdb
+D:\Program\Program_ACMP.ru\Кольца (0894)\obj\Debug\Кольца (0894).csprojAssemblyReference.cache
+D:\Program\Program_ACMP.ru\Кольца (0894)\obj\Debug\Кольца (0894).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Кольца (0894)\obj\Debug\Кольца (0894).exe
+D:\Program\Program_ACMP.ru\Кольца (0894)\obj\Debug\Кольца (0894).pdb

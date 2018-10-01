@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Арбузы (0081)\bin\Debug\Арбузы (0081).exe.config
+D:\Program\Program_ACMP.ru\Арбузы (0081)\bin\Debug\Арбузы (0081).exe
+D:\Program\Program_ACMP.ru\Арбузы (0081)\bin\Debug\Арбузы (0081).pdb
+D:\Program\Program_ACMP.ru\Арбузы (0081)\obj\Debug\Арбузы (0081).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Арбузы (0081)\obj\Debug\Арбузы (0081).exe
+D:\Program\Program_ACMP.ru\Арбузы (0081)\obj\Debug\Арбузы (0081).pdb

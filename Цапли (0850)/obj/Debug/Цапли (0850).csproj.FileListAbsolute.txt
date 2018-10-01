@@ -1,0 +1,7 @@
+D:\Program\Program_ACMP.ru\Цапли (0850)\bin\Debug\Цапли (0850).exe.config
+D:\Program\Program_ACMP.ru\Цапли (0850)\bin\Debug\Цапли (0850).exe
+D:\Program\Program_ACMP.ru\Цапли (0850)\bin\Debug\Цапли (0850).pdb
+D:\Program\Program_ACMP.ru\Цапли (0850)\obj\Debug\Цапли (0850).csprojAssemblyReference.cache
+D:\Program\Program_ACMP.ru\Цапли (0850)\obj\Debug\Цапли (0850).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Цапли (0850)\obj\Debug\Цапли (0850).exe
+D:\Program\Program_ACMP.ru\Цапли (0850)\obj\Debug\Цапли (0850).pdb

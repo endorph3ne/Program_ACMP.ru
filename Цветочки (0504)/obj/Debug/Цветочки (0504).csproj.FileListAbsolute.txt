@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Цветочки (0504)\bin\Debug\Цветочки (0504).exe.config
+D:\Program\Program_ACMP.ru\Цветочки (0504)\bin\Debug\Цветочки (0504).exe
+D:\Program\Program_ACMP.ru\Цветочки (0504)\bin\Debug\Цветочки (0504).pdb
+D:\Program\Program_ACMP.ru\Цветочки (0504)\obj\Debug\Цветочки (0504).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Цветочки (0504)\obj\Debug\Цветочки (0504).exe
+D:\Program\Program_ACMP.ru\Цветочки (0504)\obj\Debug\Цветочки (0504).pdb

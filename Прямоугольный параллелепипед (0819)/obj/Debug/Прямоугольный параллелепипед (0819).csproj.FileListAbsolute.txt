@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Прямоугольный параллелепипед (0819)\bin\Debug\Прямоугольный параллелепипед (0819).exe.config
+D:\Program\Program_ACMP.ru\Прямоугольный параллелепипед (0819)\bin\Debug\Прямоугольный параллелепипед (0819).exe
+D:\Program\Program_ACMP.ru\Прямоугольный параллелепипед (0819)\bin\Debug\Прямоугольный параллелепипед (0819).pdb
+D:\Program\Program_ACMP.ru\Прямоугольный параллелепипед (0819)\obj\Debug\Прямоугольный параллелепипед (0819).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Прямоугольный параллелепипед (0819)\obj\Debug\Прямоугольный параллелепипед (0819).exe
+D:\Program\Program_ACMP.ru\Прямоугольный параллелепипед (0819)\obj\Debug\Прямоугольный параллелепипед (0819).pdb

@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Сбор земляники (0755)\bin\Debug\Сбор земляники (0755).exe.config
+D:\Program\Program_ACMP.ru\Сбор земляники (0755)\bin\Debug\Сбор земляники (0755).exe
+D:\Program\Program_ACMP.ru\Сбор земляники (0755)\bin\Debug\Сбор земляники (0755).pdb
+D:\Program\Program_ACMP.ru\Сбор земляники (0755)\obj\Debug\Сбор земляники (0755).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Сбор земляники (0755)\obj\Debug\Сбор земляники (0755).exe
+D:\Program\Program_ACMP.ru\Сбор земляники (0755)\obj\Debug\Сбор земляники (0755).pdb

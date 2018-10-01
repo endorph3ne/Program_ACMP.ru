@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Клетки (0062)\bin\Debug\Клетки (0062).exe.config
+D:\Program\Program_ACMP.ru\Клетки (0062)\bin\Debug\Клетки (0062).exe
+D:\Program\Program_ACMP.ru\Клетки (0062)\bin\Debug\Клетки (0062).pdb
+D:\Program\Program_ACMP.ru\Клетки (0062)\obj\Debug\Клетки (0062).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Клетки (0062)\obj\Debug\Клетки (0062).exe
+D:\Program\Program_ACMP.ru\Клетки (0062)\obj\Debug\Клетки (0062).pdb

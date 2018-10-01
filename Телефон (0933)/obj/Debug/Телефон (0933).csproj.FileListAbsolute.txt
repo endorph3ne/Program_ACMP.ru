@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Телефон (0933)\bin\Debug\Телефон (0933).exe.config
+D:\Program\Program_ACMP.ru\Телефон (0933)\bin\Debug\Телефон (0933).exe
+D:\Program\Program_ACMP.ru\Телефон (0933)\bin\Debug\Телефон (0933).pdb
+D:\Program\Program_ACMP.ru\Телефон (0933)\obj\Debug\Телефон (0933).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Телефон (0933)\obj\Debug\Телефон (0933).exe
+D:\Program\Program_ACMP.ru\Телефон (0933)\obj\Debug\Телефон (0933).pdb

@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Журавлики (0092)\bin\Debug\Журавлики (0092).exe.config
+D:\Program\Program_ACMP.ru\Журавлики (0092)\bin\Debug\Журавлики (0092).exe
+D:\Program\Program_ACMP.ru\Журавлики (0092)\bin\Debug\Журавлики (0092).pdb
+D:\Program\Program_ACMP.ru\Журавлики (0092)\obj\Debug\Журавлики (0092).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Журавлики (0092)\obj\Debug\Журавлики (0092).exe
+D:\Program\Program_ACMP.ru\Журавлики (0092)\obj\Debug\Журавлики (0092).pdb

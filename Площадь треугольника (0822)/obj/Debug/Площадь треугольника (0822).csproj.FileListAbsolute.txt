@@ -1,0 +1,7 @@
+D:\Program\Program_ACMP.ru\Площадь треугольника (0822)\bin\Debug\Площадь треугольника (0822).exe.config
+D:\Program\Program_ACMP.ru\Площадь треугольника (0822)\bin\Debug\Площадь треугольника (0822).exe
+D:\Program\Program_ACMP.ru\Площадь треугольника (0822)\bin\Debug\Площадь треугольника (0822).pdb
+D:\Program\Program_ACMP.ru\Площадь треугольника (0822)\obj\Debug\Площадь треугольника (0822).csprojAssemblyReference.cache
+D:\Program\Program_ACMP.ru\Площадь треугольника (0822)\obj\Debug\Площадь треугольника (0822).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Площадь треугольника (0822)\obj\Debug\Площадь треугольника (0822).exe
+D:\Program\Program_ACMP.ru\Площадь треугольника (0822)\obj\Debug\Площадь треугольника (0822).pdb

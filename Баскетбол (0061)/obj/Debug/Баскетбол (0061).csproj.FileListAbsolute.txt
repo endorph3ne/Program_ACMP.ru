@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Баскетбол (0061)\bin\Debug\Баскетбол (0061).exe.config
+D:\Program\Program_ACMP.ru\Баскетбол (0061)\bin\Debug\Баскетбол (0061).exe
+D:\Program\Program_ACMP.ru\Баскетбол (0061)\bin\Debug\Баскетбол (0061).pdb
+D:\Program\Program_ACMP.ru\Баскетбол (0061)\obj\Debug\Баскетбол (0061).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Баскетбол (0061)\obj\Debug\Баскетбол (0061).exe
+D:\Program\Program_ACMP.ru\Баскетбол (0061)\obj\Debug\Баскетбол (0061).pdb

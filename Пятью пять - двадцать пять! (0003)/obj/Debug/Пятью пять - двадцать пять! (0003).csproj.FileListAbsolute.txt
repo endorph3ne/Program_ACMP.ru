@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Пятью пять - двадцать пять! (0003)\bin\Debug\Пятью пять - двадцать пять! (0003).exe.config
+D:\Program\Program_ACMP.ru\Пятью пять - двадцать пять! (0003)\bin\Debug\Пятью пять - двадцать пять! (0003).exe
+D:\Program\Program_ACMP.ru\Пятью пять - двадцать пять! (0003)\bin\Debug\Пятью пять - двадцать пять! (0003).pdb
+D:\Program\Program_ACMP.ru\Пятью пять - двадцать пять! (0003)\obj\Debug\Пятью пять - двадцать пять! (0003).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Пятью пять - двадцать пять! (0003)\obj\Debug\Пятью пять - двадцать пять! (0003).exe
+D:\Program\Program_ACMP.ru\Пятью пять - двадцать пять! (0003)\obj\Debug\Пятью пять - двадцать пять! (0003).pdb

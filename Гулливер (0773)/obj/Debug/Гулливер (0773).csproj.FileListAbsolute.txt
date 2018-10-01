@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Гулливер (0773)\bin\Debug\Гулливер (0773).exe.config
+D:\Program\Program_ACMP.ru\Гулливер (0773)\bin\Debug\Гулливер (0773).exe
+D:\Program\Program_ACMP.ru\Гулливер (0773)\bin\Debug\Гулливер (0773).pdb
+D:\Program\Program_ACMP.ru\Гулливер (0773)\obj\Debug\Гулливер (0773).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Гулливер (0773)\obj\Debug\Гулливер (0773).exe
+D:\Program\Program_ACMP.ru\Гулливер (0773)\obj\Debug\Гулливер (0773).pdb

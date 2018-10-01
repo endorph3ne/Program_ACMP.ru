@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Метро (0263)\bin\Debug\Метро (0263).exe.config
+D:\Program\Program_ACMP.ru\Метро (0263)\bin\Debug\Метро (0263).exe
+D:\Program\Program_ACMP.ru\Метро (0263)\bin\Debug\Метро (0263).pdb
+D:\Program\Program_ACMP.ru\Метро (0263)\obj\Debug\Метро (0263).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Метро (0263)\obj\Debug\Метро (0263).exe
+D:\Program\Program_ACMP.ru\Метро (0263)\obj\Debug\Метро (0263).pdb

@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Число Е (0046)\bin\Debug\Число Е (0046).exe.config
+D:\Program\Program_ACMP.ru\Число Е (0046)\bin\Debug\Число Е (0046).exe
+D:\Program\Program_ACMP.ru\Число Е (0046)\bin\Debug\Число Е (0046).pdb
+D:\Program\Program_ACMP.ru\Число Е (0046)\obj\Debug\Число Е (0046).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Число Е (0046)\obj\Debug\Число Е (0046).exe
+D:\Program\Program_ACMP.ru\Число Е (0046)\obj\Debug\Число Е (0046).pdb

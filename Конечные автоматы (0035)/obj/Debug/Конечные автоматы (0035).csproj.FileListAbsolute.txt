@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Конечные автоматы (0035)\bin\Debug\Конечные автоматы (0035).exe.config
+D:\Program\Program_ACMP.ru\Конечные автоматы (0035)\bin\Debug\Конечные автоматы (0035).exe
+D:\Program\Program_ACMP.ru\Конечные автоматы (0035)\bin\Debug\Конечные автоматы (0035).pdb
+D:\Program\Program_ACMP.ru\Конечные автоматы (0035)\obj\Debug\Конечные автоматы (0035).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Конечные автоматы (0035)\obj\Debug\Конечные автоматы (0035).exe
+D:\Program\Program_ACMP.ru\Конечные автоматы (0035)\obj\Debug\Конечные автоматы (0035).pdb

@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Неглухой телефон (0108)\bin\Debug\Неглухой телефон (0108).exe.config
+D:\Program\Program_ACMP.ru\Неглухой телефон (0108)\bin\Debug\Неглухой телефон (0108).exe
+D:\Program\Program_ACMP.ru\Неглухой телефон (0108)\bin\Debug\Неглухой телефон (0108).pdb
+D:\Program\Program_ACMP.ru\Неглухой телефон (0108)\obj\Debug\Неглухой телефон (0108).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Неглухой телефон (0108)\obj\Debug\Неглухой телефон (0108).exe
+D:\Program\Program_ACMP.ru\Неглухой телефон (0108)\obj\Debug\Неглухой телефон (0108).pdb

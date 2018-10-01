@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Номера автобусов (0691)\obj\Debug\Номера автобусов (0691).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Номера автобусов (0691)\bin\Debug\Номера автобусов (0691).exe.config
+D:\Program\Program_ACMP.ru\Номера автобусов (0691)\bin\Debug\Номера автобусов (0691).exe
+D:\Program\Program_ACMP.ru\Номера автобусов (0691)\bin\Debug\Номера автобусов (0691).pdb
+D:\Program\Program_ACMP.ru\Номера автобусов (0691)\obj\Debug\Номера автобусов (0691).exe
+D:\Program\Program_ACMP.ru\Номера автобусов (0691)\obj\Debug\Номера автобусов (0691).pdb

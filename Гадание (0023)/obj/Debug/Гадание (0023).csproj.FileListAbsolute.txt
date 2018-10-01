@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Гадание (0023)\bin\Debug\Гадание (0023).exe.config
+D:\Program\Program_ACMP.ru\Гадание (0023)\bin\Debug\Гадание (0023).exe
+D:\Program\Program_ACMP.ru\Гадание (0023)\bin\Debug\Гадание (0023).pdb
+D:\Program\Program_ACMP.ru\Гадание (0023)\obj\Debug\Гадание (0023).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Гадание (0023)\obj\Debug\Гадание (0023).exe
+D:\Program\Program_ACMP.ru\Гадание (0023)\obj\Debug\Гадание (0023).pdb

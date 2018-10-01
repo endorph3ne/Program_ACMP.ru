@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Кипячение чая (0818)\bin\Debug\Кипячение чая (0818).exe.config
+D:\Program\Program_ACMP.ru\Кипячение чая (0818)\bin\Debug\Кипячение чая (0818).exe
+D:\Program\Program_ACMP.ru\Кипячение чая (0818)\bin\Debug\Кипячение чая (0818).pdb
+D:\Program\Program_ACMP.ru\Кипячение чая (0818)\obj\Debug\Кипячение чая (0818).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Кипячение чая (0818)\obj\Debug\Кипячение чая (0818).exe
+D:\Program\Program_ACMP.ru\Кипячение чая (0818)\obj\Debug\Кипячение чая (0818).pdb

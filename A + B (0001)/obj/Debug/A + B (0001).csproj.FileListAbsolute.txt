@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\A + B (0001)\bin\Debug\A + B (0001).exe.config
+D:\Program\Program_ACMP.ru\A + B (0001)\bin\Debug\A + B (0001).exe
+D:\Program\Program_ACMP.ru\A + B (0001)\bin\Debug\A + B (0001).pdb
+D:\Program\Program_ACMP.ru\A + B (0001)\obj\Debug\A + B (0001).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\A + B (0001)\obj\Debug\A + B (0001).exe
+D:\Program\Program_ACMP.ru\A + B (0001)\obj\Debug\A + B (0001).pdb

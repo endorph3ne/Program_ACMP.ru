@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\В одном шаге от счастья (0327)\bin\Debug\В одном шаге от счастья (0327).exe.config
+D:\Program\Program_ACMP.ru\В одном шаге от счастья (0327)\bin\Debug\В одном шаге от счастья (0327).exe
+D:\Program\Program_ACMP.ru\В одном шаге от счастья (0327)\bin\Debug\В одном шаге от счастья (0327).pdb
+D:\Program\Program_ACMP.ru\В одном шаге от счастья (0327)\obj\Debug\В одном шаге от счастья (0327).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\В одном шаге от счастья (0327)\obj\Debug\В одном шаге от счастья (0327).exe
+D:\Program\Program_ACMP.ru\В одном шаге от счастья (0327)\obj\Debug\В одном шаге от счастья (0327).pdb

@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Эния (0195)\bin\Debug\Эния (0195).exe.config
+D:\Program\Program_ACMP.ru\Эния (0195)\bin\Debug\Эния (0195).exe
+D:\Program\Program_ACMP.ru\Эния (0195)\bin\Debug\Эния (0195).pdb
+D:\Program\Program_ACMP.ru\Эния (0195)\obj\Debug\Эния (0195).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Эния (0195)\obj\Debug\Эния (0195).exe
+D:\Program\Program_ACMP.ru\Эния (0195)\obj\Debug\Эния (0195).pdb

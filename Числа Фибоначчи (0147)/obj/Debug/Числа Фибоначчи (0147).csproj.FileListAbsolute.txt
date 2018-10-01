@@ -1,0 +1,7 @@
+D:\Program\Program_ACMP.ru\Числа Фибоначчи (0147)\bin\Debug\Числа Фибоначчи (0147).exe.config
+D:\Program\Program_ACMP.ru\Числа Фибоначчи (0147)\bin\Debug\Числа Фибоначчи (0147).exe
+D:\Program\Program_ACMP.ru\Числа Фибоначчи (0147)\bin\Debug\Числа Фибоначчи (0147).pdb
+D:\Program\Program_ACMP.ru\Числа Фибоначчи (0147)\obj\Debug\Числа Фибоначчи (0147).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Числа Фибоначчи (0147)\obj\Debug\Числа Фибоначчи (0147).exe
+D:\Program\Program_ACMP.ru\Числа Фибоначчи (0147)\obj\Debug\Числа Фибоначчи (0147).pdb
+D:\Program\Program_ACMP.ru\Числа Фибоначчи (0147)\obj\Debug\Числа Фибоначчи (0147).csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Два бандита (0033)\bin\Debug\Два бандита (0033).exe.config
+D:\Program\Program_ACMP.ru\Два бандита (0033)\bin\Debug\Два бандита (0033).exe
+D:\Program\Program_ACMP.ru\Два бандита (0033)\bin\Debug\Два бандита (0033).pdb
+D:\Program\Program_ACMP.ru\Два бандита (0033)\obj\Debug\Два бандита (0033).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Два бандита (0033)\obj\Debug\Два бандита (0033).exe
+D:\Program\Program_ACMP.ru\Два бандита (0033)\obj\Debug\Два бандита (0033).pdb

@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Время прибытия (0331)\bin\Debug\Время прибытия (0331).exe.config
+D:\Program\Program_ACMP.ru\Время прибытия (0331)\bin\Debug\Время прибытия (0331).exe
+D:\Program\Program_ACMP.ru\Время прибытия (0331)\bin\Debug\Время прибытия (0331).pdb
+D:\Program\Program_ACMP.ru\Время прибытия (0331)\obj\Debug\Время прибытия (0331).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Время прибытия (0331)\obj\Debug\Время прибытия (0331).exe
+D:\Program\Program_ACMP.ru\Время прибытия (0331)\obj\Debug\Время прибытия (0331).pdb

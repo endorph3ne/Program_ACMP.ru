@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\НОД (0148)\bin\Debug\НОД (0148).exe.config
+D:\Program\Program_ACMP.ru\НОД (0148)\bin\Debug\НОД (0148).exe
+D:\Program\Program_ACMP.ru\НОД (0148)\bin\Debug\НОД (0148).pdb
+D:\Program\Program_ACMP.ru\НОД (0148)\obj\Debug\НОД (0148).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\НОД (0148)\obj\Debug\НОД (0148).exe
+D:\Program\Program_ACMP.ru\НОД (0148)\obj\Debug\НОД (0148).pdb

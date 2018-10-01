@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Игра (0004)\bin\Debug\Игра (0004).exe.config
+D:\Program\Program_ACMP.ru\Игра (0004)\bin\Debug\Игра (0004).exe
+D:\Program\Program_ACMP.ru\Игра (0004)\bin\Debug\Игра (0004).pdb
+D:\Program\Program_ACMP.ru\Игра (0004)\obj\Debug\Игра (0004).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Игра (0004)\obj\Debug\Игра (0004).exe
+D:\Program\Program_ACMP.ru\Игра (0004)\obj\Debug\Игра (0004).pdb

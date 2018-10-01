@@ -1,0 +1,7 @@
+D:\Program\Program_ACMP.ru\Игральные кубики (0929)\bin\Debug\Игральные кубики (0929).exe.config
+D:\Program\Program_ACMP.ru\Игральные кубики (0929)\bin\Debug\Игральные кубики (0929).exe
+D:\Program\Program_ACMP.ru\Игральные кубики (0929)\bin\Debug\Игральные кубики (0929).pdb
+D:\Program\Program_ACMP.ru\Игральные кубики (0929)\obj\Debug\Игральные кубики (0929).csprojAssemblyReference.cache
+D:\Program\Program_ACMP.ru\Игральные кубики (0929)\obj\Debug\Игральные кубики (0929).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Игральные кубики (0929)\obj\Debug\Игральные кубики (0929).exe
+D:\Program\Program_ACMP.ru\Игральные кубики (0929)\obj\Debug\Игральные кубики (0929).pdb

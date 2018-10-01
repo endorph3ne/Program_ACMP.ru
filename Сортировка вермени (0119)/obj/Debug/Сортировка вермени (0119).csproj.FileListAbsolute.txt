@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Сортировка вермени (0119)\bin\Debug\Сортировка вермени (0119).exe.config
+D:\Program\Program_ACMP.ru\Сортировка вермени (0119)\bin\Debug\Сортировка вермени (0119).exe
+D:\Program\Program_ACMP.ru\Сортировка вермени (0119)\bin\Debug\Сортировка вермени (0119).pdb
+D:\Program\Program_ACMP.ru\Сортировка вермени (0119)\obj\Debug\Сортировка вермени (0119).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Сортировка вермени (0119)\obj\Debug\Сортировка вермени (0119).exe
+D:\Program\Program_ACMP.ru\Сортировка вермени (0119)\obj\Debug\Сортировка вермени (0119).pdb

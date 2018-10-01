@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Автобусная экскурсия (0233)\bin\Debug\Автобусная экскурсия (0233).exe.config
+D:\Program\Program_ACMP.ru\Автобусная экскурсия (0233)\bin\Debug\Автобусная экскурсия (0233).exe
+D:\Program\Program_ACMP.ru\Автобусная экскурсия (0233)\bin\Debug\Автобусная экскурсия (0233).pdb
+D:\Program\Program_ACMP.ru\Автобусная экскурсия (0233)\obj\Debug\Автобусная экскурсия (0233).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Автобусная экскурсия (0233)\obj\Debug\Автобусная экскурсия (0233).exe
+D:\Program\Program_ACMP.ru\Автобусная экскурсия (0233)\obj\Debug\Автобусная экскурсия (0233).pdb

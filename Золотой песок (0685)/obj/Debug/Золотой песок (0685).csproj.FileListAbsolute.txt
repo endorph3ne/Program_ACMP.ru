@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Золотой песок (0685)\bin\Debug\Золотой песок (0685).exe.config
+D:\Program\Program_ACMP.ru\Золотой песок (0685)\bin\Debug\Золотой песок (0685).exe
+D:\Program\Program_ACMP.ru\Золотой песок (0685)\bin\Debug\Золотой песок (0685).pdb
+D:\Program\Program_ACMP.ru\Золотой песок (0685)\obj\Debug\Золотой песок (0685).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Золотой песок (0685)\obj\Debug\Золотой песок (0685).exe
+D:\Program\Program_ACMP.ru\Золотой песок (0685)\obj\Debug\Золотой песок (0685).pdb

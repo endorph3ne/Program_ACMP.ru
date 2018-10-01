@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Всем известно (0839)\bin\Debug\Всем известно (0839).exe.config
+D:\Program\Program_ACMP.ru\Всем известно (0839)\bin\Debug\Всем известно (0839).exe
+D:\Program\Program_ACMP.ru\Всем известно (0839)\bin\Debug\Всем известно (0839).pdb
+D:\Program\Program_ACMP.ru\Всем известно (0839)\obj\Debug\Всем известно (0839).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Всем известно (0839)\obj\Debug\Всем известно (0839).exe
+D:\Program\Program_ACMP.ru\Всем известно (0839)\obj\Debug\Всем известно (0839).pdb

@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Будильник (0777)\bin\Debug\Будильник (0777).exe.config
+D:\Program\Program_ACMP.ru\Будильник (0777)\bin\Debug\Будильник (0777).exe
+D:\Program\Program_ACMP.ru\Будильник (0777)\bin\Debug\Будильник (0777).pdb
+D:\Program\Program_ACMP.ru\Будильник (0777)\obj\Debug\Будильник (0777).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Будильник (0777)\obj\Debug\Будильник (0777).exe
+D:\Program\Program_ACMP.ru\Будильник (0777)\obj\Debug\Будильник (0777).pdb

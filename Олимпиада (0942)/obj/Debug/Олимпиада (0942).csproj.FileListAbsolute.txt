@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Олимпиада (0942)\bin\Debug\Олимпиада (0942).exe.config
+D:\Program\Program_ACMP.ru\Олимпиада (0942)\bin\Debug\Олимпиада (0942).exe
+D:\Program\Program_ACMP.ru\Олимпиада (0942)\bin\Debug\Олимпиада (0942).pdb
+D:\Program\Program_ACMP.ru\Олимпиада (0942)\obj\Debug\Олимпиада (0942).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Олимпиада (0942)\obj\Debug\Олимпиада (0942).exe
+D:\Program\Program_ACMP.ru\Олимпиада (0942)\obj\Debug\Олимпиада (0942).pdb

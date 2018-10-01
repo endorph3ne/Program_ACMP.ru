@@ -1,0 +1,7 @@
+D:\Program\Program_ACMP.ru\Змейка (0943)\bin\Debug\Змейка (0943).exe.config
+D:\Program\Program_ACMP.ru\Змейка (0943)\bin\Debug\Змейка (0943).exe
+D:\Program\Program_ACMP.ru\Змейка (0943)\bin\Debug\Змейка (0943).pdb
+D:\Program\Program_ACMP.ru\Змейка (0943)\obj\Debug\Змейка (0943).csprojAssemblyReference.cache
+D:\Program\Program_ACMP.ru\Змейка (0943)\obj\Debug\Змейка (0943).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Змейка (0943)\obj\Debug\Змейка (0943).exe
+D:\Program\Program_ACMP.ru\Змейка (0943)\obj\Debug\Змейка (0943).pdb

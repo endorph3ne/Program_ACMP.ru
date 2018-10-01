@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Кругляши (0297)\bin\Debug\Кругляши (0297).exe.config
+D:\Program\Program_ACMP.ru\Кругляши (0297)\bin\Debug\Кругляши (0297).exe
+D:\Program\Program_ACMP.ru\Кругляши (0297)\bin\Debug\Кругляши (0297).pdb
+D:\Program\Program_ACMP.ru\Кругляши (0297)\obj\Debug\Кругляши (0297).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Кругляши (0297)\obj\Debug\Кругляши (0297).exe
+D:\Program\Program_ACMP.ru\Кругляши (0297)\obj\Debug\Кругляши (0297).pdb

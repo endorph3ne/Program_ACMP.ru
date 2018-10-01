@@ -1,0 +1,6 @@
+D:\Program\Program_ACMP.ru\Четырехзначный палиндром (0324)\bin\Debug\Четырехзначный палиндром (0324).exe.config
+D:\Program\Program_ACMP.ru\Четырехзначный палиндром (0324)\bin\Debug\Четырехзначный палиндром (0324).exe
+D:\Program\Program_ACMP.ru\Четырехзначный палиндром (0324)\bin\Debug\Четырехзначный палиндром (0324).pdb
+D:\Program\Program_ACMP.ru\Четырехзначный палиндром (0324)\obj\Debug\Четырехзначный палиндром (0324).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Четырехзначный палиндром (0324)\obj\Debug\Четырехзначный палиндром (0324).exe
+D:\Program\Program_ACMP.ru\Четырехзначный палиндром (0324)\obj\Debug\Четырехзначный палиндром (0324).pdb
