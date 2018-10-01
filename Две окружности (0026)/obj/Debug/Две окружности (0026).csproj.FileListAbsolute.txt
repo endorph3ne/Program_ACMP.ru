@@ -1,0 +1,7 @@
+D:\Program\Program_ACMP.ru\Две окружности (0026)\bin\Debug\Две_окружности__0026_.exe.config
+D:\Program\Program_ACMP.ru\Две окружности (0026)\bin\Debug\Две_окружности__0026_.exe
+D:\Program\Program_ACMP.ru\Две окружности (0026)\bin\Debug\Две_окружности__0026_.pdb
+D:\Program\Program_ACMP.ru\Две окружности (0026)\obj\Debug\Две окружности (0026).csprojAssemblyReference.cache
+D:\Program\Program_ACMP.ru\Две окружности (0026)\obj\Debug\Две окружности (0026).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Две окружности (0026)\obj\Debug\Две_окружности__0026_.exe
+D:\Program\Program_ACMP.ru\Две окружности (0026)\obj\Debug\Две_окружности__0026_.pdb
