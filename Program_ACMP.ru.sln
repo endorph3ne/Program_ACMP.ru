@@ -153,6 +153,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Две окружности
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Манхэттенские улицы (0817)", "Манхэттенские улицы (0817)\Манхэттенские улицы (0817).csproj", "{EDAC59A8-54ED-4405-85FB-DFCD708C6A28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Болты и гайки (0294)", "Болты и гайки (0294)\Болты и гайки (0294).csproj", "{AA915705-61B9-443E-B67C-42EED7CA2434}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -459,6 +461,10 @@ Global
 		{EDAC59A8-54ED-4405-85FB-DFCD708C6A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDAC59A8-54ED-4405-85FB-DFCD708C6A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDAC59A8-54ED-4405-85FB-DFCD708C6A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA915705-61B9-443E-B67C-42EED7CA2434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA915705-61B9-443E-B67C-42EED7CA2434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA915705-61B9-443E-B67C-42EED7CA2434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA915705-61B9-443E-B67C-42EED7CA2434}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
