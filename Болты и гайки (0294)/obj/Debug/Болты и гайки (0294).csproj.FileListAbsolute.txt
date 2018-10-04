@@ -1,0 +1,7 @@
+D:\Program\Program_ACMP.ru\Болты и гайки (0294)\bin\Debug\Болты и гайки (0294).exe.config
+D:\Program\Program_ACMP.ru\Болты и гайки (0294)\bin\Debug\Болты и гайки (0294).exe
+D:\Program\Program_ACMP.ru\Болты и гайки (0294)\bin\Debug\Болты и гайки (0294).pdb
+D:\Program\Program_ACMP.ru\Болты и гайки (0294)\obj\Debug\Болты и гайки (0294).csprojAssemblyReference.cache
+D:\Program\Program_ACMP.ru\Болты и гайки (0294)\obj\Debug\Болты и гайки (0294).csproj.CoreCompileInputs.cache
+D:\Program\Program_ACMP.ru\Болты и гайки (0294)\obj\Debug\Болты и гайки (0294).exe
+D:\Program\Program_ACMP.ru\Болты и гайки (0294)\obj\Debug\Болты и гайки (0294).pdb
