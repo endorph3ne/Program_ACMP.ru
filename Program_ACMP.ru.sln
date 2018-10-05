@@ -155,6 +155,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Манхэттенские 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Болты и гайки (0294)", "Болты и гайки (0294)\Болты и гайки (0294).csproj", "{AA915705-61B9-443E-B67C-42EED7CA2434}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Миша и негатив (0715)", "Миша и негатив (0715)\Миша и негатив (0715).csproj", "{DC43A89C-6F80-4F02-A167-89EED9A484F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -465,6 +467,10 @@ Global
 		{AA915705-61B9-443E-B67C-42EED7CA2434}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA915705-61B9-443E-B67C-42EED7CA2434}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA915705-61B9-443E-B67C-42EED7CA2434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC43A89C-6F80-4F02-A167-89EED9A484F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC43A89C-6F80-4F02-A167-89EED9A484F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC43A89C-6F80-4F02-A167-89EED9A484F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC43A89C-6F80-4F02-A167-89EED9A484F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

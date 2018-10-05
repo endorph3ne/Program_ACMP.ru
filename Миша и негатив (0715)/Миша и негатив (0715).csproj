@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{095F8F52-D932-4CC5-A910-18C55CDC1EEB}</ProjectGuid>
+    <ProjectGuid>{DC43A89C-6F80-4F02-A167-89EED9A484F6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Миша_и_негатив__0715_</RootNamespace>
-    <AssemblyName>Миша_и_негатив__0715_</AssemblyName>
+    <AssemblyName>Миша и негатив %280715%29</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
