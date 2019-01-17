@@ -159,6 +159,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Миша и негатив 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Оттепель (0264)", "Оттепель (0264)\Оттепель (0264).csproj", "{ED6FACE3-D64C-44BB-A361-6699CE898776}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сбор черники (0496)", "Сбор черники (0496)\Сбор черники (0496).csproj", "{6B0276DA-3109-4525-A14B-582904FF6634}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -477,6 +479,10 @@ Global
 		{ED6FACE3-D64C-44BB-A361-6699CE898776}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED6FACE3-D64C-44BB-A361-6699CE898776}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED6FACE3-D64C-44BB-A361-6699CE898776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B0276DA-3109-4525-A14B-582904FF6634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0276DA-3109-4525-A14B-582904FF6634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0276DA-3109-4525-A14B-582904FF6634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0276DA-3109-4525-A14B-582904FF6634}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
