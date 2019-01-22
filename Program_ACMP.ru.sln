@@ -163,6 +163,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сбор черники (04
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Уравнение (0010)", "Уравнение (0010)\Уравнение (0010).csproj", "{ABD404FC-A033-4639-BB11-1E5090883F73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Фибоначчиева последовательность (0949)", "Фибоначчиева последовательность (0949)\Фибоначчиева последовательность (0949).csproj", "{529786D6-984F-41DD-918B-90323D15A14D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -489,6 +491,10 @@ Global
 		{ABD404FC-A033-4639-BB11-1E5090883F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABD404FC-A033-4639-BB11-1E5090883F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABD404FC-A033-4639-BB11-1E5090883F73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{529786D6-984F-41DD-918B-90323D15A14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529786D6-984F-41DD-918B-90323D15A14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529786D6-984F-41DD-918B-90323D15A14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529786D6-984F-41DD-918B-90323D15A14D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
