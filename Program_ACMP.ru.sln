@@ -161,6 +161,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Оттепель (0264)", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сбор черники (0496)", "Сбор черники (0496)\Сбор черники (0496).csproj", "{6B0276DA-3109-4525-A14B-582904FF6634}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Уравнение (0010)", "Уравнение (0010)\Уравнение (0010).csproj", "{ABD404FC-A033-4639-BB11-1E5090883F73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -483,6 +485,10 @@ Global
 		{6B0276DA-3109-4525-A14B-582904FF6634}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B0276DA-3109-4525-A14B-582904FF6634}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B0276DA-3109-4525-A14B-582904FF6634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD404FC-A033-4639-BB11-1E5090883F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD404FC-A033-4639-BB11-1E5090883F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD404FC-A033-4639-BB11-1E5090883F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD404FC-A033-4639-BB11-1E5090883F73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
